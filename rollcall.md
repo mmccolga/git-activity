@@ -545,3 +545,7 @@ Name, Organization, and (optionally) Contact Info
 * Ray Romero, Doral College
   * Github: Ray-Romero
   * Email: rayromero00@gmail.com
+  
+* Michele McColgan, Siena College
+  * Github: mmccolga
+  * Email: mmccolgan@siena.edu
